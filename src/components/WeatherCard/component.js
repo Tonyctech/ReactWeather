@@ -11,7 +11,7 @@ const WeatherCard = (props) => {
         margin: 0 auto;
         background: linear-gradient(to bottom, rgba(${red}, 200, 200), lightblue);
         width: 200px;
-        height: 240px;
+        height: 241px;
         display: flex;
         flex-direction: column;
         justify-content:space-around;
